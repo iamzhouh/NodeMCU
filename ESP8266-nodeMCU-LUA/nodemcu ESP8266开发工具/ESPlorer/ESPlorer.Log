@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-01-04T01:44:23.026359Z</date>
+  <millis>1609724663026</millis>
+  <nanos>359000</nanos>
+  <sequence>4</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>19</thread>
+  <message>Load saved settings: Firmware:NodeMCU</message>
+</record>
+<record>
+  <date>2021-01-04T01:44:23.037491Z</date>
+  <millis>1609724663037</millis>
+  <nanos>491000</nanos>
+  <sequence>5</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>19</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2021-01-04T01:44:23.045950Z</date>
+  <millis>1609724663045</millis>
+  <nanos>950000</nanos>
+  <sequence>6</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>19</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2021-01-04T01:44:23.121120Z</date>
+  <millis>1609724663121</millis>
+  <nanos>120000</nanos>
+  <sequence>7</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>19</thread>
+  <message>Set new color theme: Success.</message>
+</record>
+<record>
+  <date>2021-01-04T01:44:23.124630Z</date>
+  <millis>1609724663124</millis>
+  <nanos>630000</nanos>
+  <sequence>8</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>19</thread>
+  <message>Load saved settings: DONE.</message>
+</record>
+<record>
+  <date>2021-01-04T01:44:23.125526Z</date>
+  <millis>1609724663125</millis>
+  <nanos>526000</nanos>
+  <sequence>9</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>19</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2021-01-04T01:44:23.127009Z</date>
+  <millis>1609724663127</millis>
+  <nanos>9000</nanos>
+  <sequence>10</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>19</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2021-01-04T01:44:23.541833Z</date>
+  <millis>1609724663541</millis>
+  <nanos>833000</nanos>
+  <sequence>11</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>19</thread>
+  <message>Scan system...</message>
+</record>
+<record>
+  <date>2021-01-04T01:44:23.676269Z</date>
+  <millis>1609724663676</millis>
+  <nanos>269000</nanos>
+  <sequence>12</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>19</thread>
+  <message>found last saved serial port /dev/cu.Bluetooth-Incoming-Port</message>
+</record>
+<record>
+  <date>2021-01-04T01:44:23.677273Z</date>
+  <millis>1609724663677</millis>
+  <nanos>273000</nanos>
+  <sequence>13</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>19</thread>
+  <message>found /dev/cu.SLAB_USBtoUART</message>
+</record>
+<record>
+  <date>2021-01-04T01:44:23.680076Z</date>
+  <millis>1609724663680</millis>
+  <nanos>76000</nanos>
+  <sequence>14</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>19</thread>
+  <message>found /dev/cu.usbserial-0001</message>
+</record>
+<record>
+  <date>2021-01-04T01:44:23.680867Z</date>
+  <millis>1609724663680</millis>
+  <nanos>867000</nanos>
+  <sequence>15</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>19</thread>
+  <message>found /dev/tty.usbserial-0001</message>
+</record>
+<record>
+  <date>2021-01-04T01:44:23.682050Z</date>
+  <millis>1609724663682</millis>
+  <nanos>50000</nanos>
+  <sequence>16</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>19</thread>
+  <message>Scan done.</message>
+</record>
+<record>
+  <date>2021-01-04T01:44:41.694936Z</date>
+  <millis>1609724681694</millis>
+  <nanos>936000</nanos>
+  <sequence>17</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>19</thread>
+  <message>Serial port /dev/cu.SLAB_USBtoUART save as default.</message>
+</record>
+<record>
+  <date>2021-01-04T01:44:41.696685Z</date>
+  <millis>1609724681696</millis>
+  <nanos>685000</nanos>
+  <sequence>18</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>19</thread>
+  <message>Baud rate 9600 save as default.</message>
+</record>
+<record>
+  <date>2021-01-04T01:44:41.697829Z</date>
+  <millis>1609724681697</millis>
+  <nanos>829000</nanos>
+  <sequence>19</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>19</thread>
+  <message>Try to open port /dev/cu.SLAB_USBtoUART, baud 9600, 8N1</message>
+</record>
+<record>
+  <date>2021-01-04T01:44:41.767550Z</date>
+  <millis>1609724681767</millis>
+  <nanos>550000</nanos>
+  <sequence>20</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>19</thread>
+  <message>Open port /dev/cu.SLAB_USBtoUART - Success.</message>
+</record>
+<record>
+  <date>2021-01-04T01:44:55.765604Z</date>
+  <millis>1609724695765</millis>
+  <nanos>604000</nanos>
+  <sequence>21</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>19</thread>
+  <message>Close port /dev/cu.SLAB_USBtoUART - Success.</message>
+</record>
+<record>
+  <date>2021-01-04T01:44:56.148728Z</date>
+  <millis>1609724696148</millis>
+  <nanos>728000</nanos>
+  <sequence>22</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>19</thread>
+  <message>Serial port /dev/cu.SLAB_USBtoUART save as default.</message>
+</record>
+<record>
+  <date>2021-01-04T01:44:56.149614Z</date>
+  <millis>1609724696149</millis>
+  <nanos>614000</nanos>
+  <sequence>23</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>19</thread>
+  <message>Baud rate 9600 save as default.</message>
+</record>
+<record>
+  <date>2021-01-04T01:44:56.150112Z</date>
+  <millis>1609724696150</millis>
+  <nanos>112000</nanos>
+  <sequence>24</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>19</thread>
+  <message>Try to open port /dev/cu.SLAB_USBtoUART, baud 9600, 8N1</message>
+</record>
+<record>
+  <date>2021-01-04T01:44:56.211262Z</date>
+  <millis>1609724696211</millis>
+  <nanos>262000</nanos>
+  <sequence>25</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>19</thread>
+  <message>Open port /dev/cu.SLAB_USBtoUART - Success.</message>
+</record>
+<record>
+  <date>2021-01-04T01:45:01.310567Z</date>
+  <millis>1609724701310</millis>
+  <nanos>567000</nanos>
+  <sequence>26</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>19</thread>
+  <message>Uploader: chooser selected file:0</message>
+</record>
+<record>
+  <date>2021-01-04T01:45:01.311860Z</date>
+  <millis>1609724701311</millis>
+  <nanos>860000</nanos>
+  <sequence>27</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>19</thread>
+  <message>Uploader: no file selected</message>
+</record>
+<record>
+  <date>2021-01-04T01:45:02.546776Z</date>
+  <millis>1609724702546</millis>
+  <nanos>776000</nanos>
+  <sequence>28</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>19</thread>
+  <message>Close port /dev/cu.SLAB_USBtoUART - Success.</message>
+</record>
+<record>
+  <date>2021-01-04T01:45:07.518068Z</date>
+  <millis>1609724707518</millis>
+  <nanos>68000</nanos>
+  <sequence>29</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>19</thread>
+  <message>FileTab cleared: Success.</message>
+</record>
+<record>
+  <date>2021-01-04T01:45:07.518896Z</date>
+  <millis>1609724707518</millis>
+  <nanos>896000</nanos>
+  <sequence>30</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>19</thread>
+  <message>File close: Success.</message>
+</record>
+</log>
